@@ -71,22 +71,28 @@
 
 To get started with the **Travel List App**, follow these steps:
 
-1. Clone the repository:  
+1. Clone the repository:
+   
    ```bash
    git clone https://github.com/your-username/travel-list-app.git
    
 2. Navigate to the project directory:
+   
    ```bash
    cd travel-list-app
    
-3. Install dependencies:  
+3. Install dependencies:
+   
    ```bash
    npm install
 
-4. Start the development server: 
+4. Start the development server:
+   
    ```bash
-  npm run dev "Vite" OR npm start "Create-react-app"
+     npm run dev "for Vite"  OR npm start "for Create-react-app"
 
-5. Open the app in your browser:  
+
+5. Open the app in your browser:
+   
    ```bash
    Enter on the link that will show to you and enjoy 😊😊
